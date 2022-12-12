@@ -18,6 +18,8 @@
   "homepage": "https://github.com/iqra3786/project-urlShortnerGroup13#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^6.8.0"
+    "mongoose": "^6.8.0",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
   }
 }
