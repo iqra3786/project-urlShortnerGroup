@@ -20,5 +20,5 @@ shortUrl:{
 },
 {timestamps:true})
 
- module.export=mongoose.model('shorturl',urlCode)
+ module.exports=mongoose.model('shorturl',urlSchema)
 
