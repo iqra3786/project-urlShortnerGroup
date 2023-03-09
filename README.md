@@ -40,7 +40,7 @@ Each api should have a new request in this collection
 Each request in the collection should be rightly named. Eg Url shorten, Get Url etc
 Each member of each team should have their tests in running state
 Phase II
-Use caching while fetching the shortened url to minimize db calls.
+Use caching while creating the shortened url to minimize db calls.
 Implement what makes sense to you and we will build understanding over the demo discussion.
 Figure out if you can also use caching while redirecting to the original url from the shortedned url
 Response
